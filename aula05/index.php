@@ -17,7 +17,7 @@
         PÁGINA INICIAL - PROJETO RECOLHEAI
       </div>
       <div class="container">
-        <form action="processa.php" method="POST" style="border: 2px solid black; border-radius: 10px; background-color: #f5f649; padding: 10px;">
+        <form action="processa.php" method="POST" style="border: 2px solid #3b51b4; border-radius: 10px; background-color: #f5f649; padding: 10px;">
           <!-- Email input -->
           <div data-mdb-input-init class="form-outline mb-4">
             <label class="form-label" for="form2Example1">Email</label>
